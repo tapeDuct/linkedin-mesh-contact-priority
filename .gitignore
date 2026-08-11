@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+
+# LinkedIn exports and generated prospect reports may contain personal data.
+*.csv
+orphan-prospect-review-*.md
+LinkedIn Orphan Discovery/
